@@ -1,0 +1,3 @@
+- Hi, I’m @JuanCanle;
+- I’m interested in creating games and mods;
+- I’m currently learning C#
