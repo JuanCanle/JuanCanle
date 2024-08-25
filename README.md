@@ -11,7 +11,7 @@
   - 📫 How to reach me **juancanlemarinho570@gmail.com**
 </p>
 
-<div style="display: flex; gap: 40%;">
+<div style="display: flex; gap: 20%;">
   <div>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
