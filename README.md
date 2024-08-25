@@ -29,8 +29,8 @@
     </p>
   </div>
   <div>
-    <p align="left">
-        <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif"/>
+    <p align="center">
+        <img src="https://media.giphy.com/media/lWUT7SZEDv6gVI4ARR/giphy.gif?cid=ecf05e47dccqzkor5earb5yr95ms22pm281q1ke1h2yugsub&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif"/>
     </p>
   </div>
 </div>
