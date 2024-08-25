@@ -11,7 +11,7 @@
   - 📫 How to reach me **juancanlemarinho570@gmail.com**
 </p>
 
-<div style="display: flex; gap: 20%;">
+<div style="display: flex;">
   <div>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -30,7 +30,7 @@
   </div>
   <div>
     <p align="right">
-        <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif"/>
+        <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif" width="80" height="80"/>
     </p>
   </div>
 </div>
