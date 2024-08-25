@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Juan Canle</h1>
 <h3 align="center">A possible Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **a terror game**
+<p align = "left">
+  - 🔭 I’m currently working on **a terror game**
 
-- 🌱 I’m currently learning **C#, React, PHP and Gamemaker**
+  - 🌱 I’m currently learning **C#, React, PHP and Gamemaker**
 
-- 🤝 I’m looking for help with **React...**
+  - 🤝 I’m looking for help with **React...**
 
-- 📫 How to reach me **juancanlemarinho570@gmail.com**
-
+  - 📫 How to reach me **juancanlemarinho570@gmail.com**
+</p>
+<p align = "right">
+  <img src = "https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt = "fungif"/>
+</p>
 <h3 align = "left">Languages and Tools:</h3>
 <p align = "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -22,7 +26,4 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-<p align = "right">
-  <img src = "https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt = "fungif" widht = "50" height = "50"/>
 </p>
