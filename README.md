@@ -30,7 +30,7 @@
   </div>
   <div>
     <p align="right">
-        <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif" width="80" height="80"/>
+        <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif?cid=790b7611ybq2qprjoaeee139xknp7yv98w782oabpc2g8s8j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif" width="500" height="500"/>
     </p>
   </div>
 </div>
