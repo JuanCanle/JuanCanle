@@ -9,33 +9,37 @@
   - 📫 How to reach me **juancanlemarinho570@gmail.com**
 </p>
 
+<h3 align="center">Languages and Tools</h3>
+
 <table align="center">
   <tr>
-    <td>
+    <td valign="top">
       <strong>Front-End</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/><br/><br/>
       <strong>Back-End</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br/><br/>
       <strong>Banco de Dados</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
     </td>
-    <td>
+    <td valign="top" align="right">
       <strong>Aprendendo...</strong><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/><br/>
       <strong>Outros</strong><br/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
     </td>
   </tr>
 </table>
+
+<br/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/lWUT7SZEDv6gVI4ARR/giphy.gif" />
