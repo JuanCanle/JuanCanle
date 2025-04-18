@@ -39,8 +39,3 @@
     </p>
   </div>
 </div>
-    <p align="center">
-        <img src="https://media.giphy.com/media/lWUT7SZEDv6gVI4ARR/giphy.gif?cid=ecf05e47dccqzkor5earb5yr95ms22pm281q1ke1h2yugsub&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fungif"/>
-    </p>
-  </div>
-</div>
