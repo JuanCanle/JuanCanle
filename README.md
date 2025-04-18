@@ -9,7 +9,7 @@
   - 📫 How to reach me **juancanlemarinho570@gmail.com**
 </p>
 
-<div style="display: flex;">
+<div>
   <h3 align="center">Languages and Tools:</h3>
     <div align="left">
       <p>Front-End</p>
