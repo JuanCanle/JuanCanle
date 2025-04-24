@@ -38,9 +38,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/lWUT7SZEDv6gVI4ARR/giphy.gif" />
-</p>
